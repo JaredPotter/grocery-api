@@ -1,0 +1,12 @@
+{
+    "62f155c8-000b-4d14-b21c-94e415304dbb": {
+        "name": "Milk",
+        "price": 99.99,
+        "id": "62f155c8-000b-4d14-b21c-94e415304dbb"
+    },
+    "6ccf760f-7e89-4e5b-ad2f-740f7a5cfb76": {
+        "name": "Eggs",
+        "price": 2.99,
+        "id": "6ccf760f-7e89-4e5b-ad2f-740f7a5cfb76"
+    }
+}
