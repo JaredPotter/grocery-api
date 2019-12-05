@@ -5,7 +5,7 @@ const cors = require('cors');
 const fs = require('fs');
 const DAL = require('./dataAccessLayer');
 const ObjectId = require('mongodb').ObjectId;
-require('dotenv').config();
+// require('dotenv').config();
 const app = express();
 const port = 3001;
 
